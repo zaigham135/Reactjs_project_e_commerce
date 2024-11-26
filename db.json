@@ -1,0 +1,192 @@
+{
+    "Manager": [
+      {
+        "id": "404e",
+        "name": "kahdlakjd",
+        "email": "zaijoid@KWJBDL",
+        "password": "ZAIGHAM134",
+        "phone": "8100629408",
+        "profile": "https://wallpapercave.com/wp/wp5533262.jpg"
+      },
+      {
+        "id": "6397",
+        "name": "abdus",
+        "email": "zaigham135@gmail.com",
+        "password": "zaigham",
+        "phone": "8100629408",
+        "profile": "rxytcuvyghubj"
+      },
+      {
+        "id": "86a3",
+        "name": "abdus",
+        "email": "zaigham135@gmail.com",
+        "password": "zaigham",
+        "phone": "8100629408",
+        "profile": "rxytcuvyghubj"
+      },
+      {
+        "id": "c6ec",
+        "name": "dxtfcygv",
+        "email": "exrtcuvy@xctyvg",
+        "password": "aw5esryxdcgv",
+        "phone": "8100629408",
+        "profile": "exryctuygvh"
+      },
+      {
+        "id": "cf5c",
+        "name": "Abdus samad zaigham",
+        "email": "zaigham135@gmail.com",
+        "password": "zaigham",
+        "phone": "8100629408",
+        "profile": "xcutyivbponmp"
+      },
+      {
+        "id": "95db",
+        "catagroy": "",
+        "Restaurent": "",
+        "name": "",
+        "price": "",
+        "description": "",
+        "quantity": "",
+        "thumbnailurl": "",
+        "rating": ""
+      },
+      {
+        "id": "901c",
+        "catagroy": "",
+        "Restaurent": "",
+        "name": "",
+        "price": "",
+        "description": "",
+        "quantity": "",
+        "thumbnailurl": "",
+        "rating": ""
+      },
+      {
+        "id": "7e47",
+        "name": "Asrar Ahmed",
+        "email": "asrar123@gmail.com",
+        "password": "zaigham",
+        "phone": "5432156864",
+        "profile": "hggvhjbk"
+      },
+      {
+        "id": "d80f",
+        "name": "ABDUS SAMAD",
+        "email": "zaigham135@gmail.com",
+        "password": "1234",
+        "phone": "8100629408",
+        "profile": "hello"
+      }
+    ],
+    "AddProduct": [
+      {
+        "id": "5478",
+        "catagroy": "",
+        "Restaurent": "Behroz",
+        "name": "Biryani ",
+        "price": "78",
+        "description": "",
+        "quantity": "1",
+        "thumbnailurl": "https://b.zmtcdn.com/data/dish_photos/3b1/77a54e48fec036e3c033a98fab50a3b1.jpg?output-format=webp",
+        "rating": ""
+      },
+      {
+        "catagroy": "",
+        "Restaurent": "Royal Calcutta Biryani",
+        "name": "Mutton Biryani",
+        "price": "90",
+        "description": "Cheapest Biryani in Bangalore ",
+        "quantity": "1",
+        "thumbnailurl": "https://b.zmtcdn.com/data/pictures/chains/9/60899/1a644239bf1a6effeae34e9fe965a380.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "rating": "4.5",
+        "id": "af3e"
+      },
+      {
+        "catagroy": "",
+        "Restaurent": "Arsalan",
+        "name": "Mutton Biryani",
+        "price": "320",
+        "description": "Biryani with spices and yummy test.\nKhao or kho jao...",
+        "quantity": "1",
+        "thumbnailurl": "https://cdn.healthnwell.com/healthnwell/wp-content/uploads/2018/04/8bef1965-2404-4929-ab29-1fdb1eb3b69f.jpg",
+        "rating": "5",
+        "id": "223a"
+      },
+      {
+        "catagroy": "",
+        "Restaurent": "Arsalan",
+        "name": "Mutton rizala",
+        "price": "350",
+        "description": "Mutton rizala with best flavour and test in whole Kolkata",
+        "quantity": "1",
+        "thumbnailurl": "https://th.bing.com/th/id/OIP.Z7L0mAjeeYaNmhgdeiW_AwHaE8?rs=1&pid=ImgDetMain",
+        "rating": "5",
+        "id": "75ea"
+      },
+      {
+        "id": "54e8",
+        "catagroy": "",
+        "Restaurent": "Arsalan Hotel",
+        "name": "Mutton Biryani",
+        "price": "320",
+        "description": "Tasty Mutton Biryani",
+        "quantity": "1",
+        "thumbnailurl": "https://media-cdn.tripadvisor.com/media/photo-o/10/b1/e0/99/img-20170916-180808-764.jpg",
+        "rating": "4.5"
+      },
+      {
+        "id": "bba4",
+        "catagroy": "",
+        "Restaurent": "Behroz Biryani",
+        "name": "Zafrani Biryani",
+        "price": "250",
+        "description": "Biryani with test of zafraan",
+        "quantity": "1",
+        "thumbnailurl": "https://th.bing.com/th/id/R.bbaf81ada781d258478bc4d8155cf1b2?rik=L1jrZqIE4DBUKQ&riu=http%3a%2f%2fmamasecretrecipes.ca%2fwp-content%2fuploads%2f2014%2f10%2fthe-zafrani-chicken-biryani-3.jpg&ehk=uVk3xvqr1JjUdvlgB7J95nicU1EdIAghrWLT%2bsSc2m0%3d&risl=&pid=ImgRaw&r=0",
+        "rating": "4.0"
+      },
+      {
+        "id": "6e29",
+        "catagroy": "",
+        "Restaurent": "Haji Ali",
+        "name": "Chicken Haryali",
+        "price": "220.0",
+        "description": "Tandoori boneless chicken with green chilli taste",
+        "quantity": "1",
+        "thumbnailurl": "https://i.ytimg.com/vi/9E68C_K9kxA/maxresdefault.jpg",
+        "rating": "5"
+      },
+      {
+        "catagroy": "",
+        "Restaurent": "Sweet",
+        "name": "Gulabjamun",
+        "price": "20.0",
+        "description": "warm and soft Bangalore special.",
+        "quantity": "2",
+        "thumbnailurl": "https://www.funfoodfrolic.com/wp-content/uploads/2020/07/Gulab-Jamun-Thumbnail.jpg",
+        "rating": "4.3",
+        "id": "34e3"
+      }
+    ],
+    "Userdetails": [
+      {
+        "id": "b6b8",
+        "uname": "ABDUS SAMAD",
+        "email": "zaigham135@gmail.com",
+        "phone": "+918100629408",
+        "address": "12 Zakaria Street, Kolkata ,pin-700073",
+        "dob": "1997-02-20",
+        "password": ""
+      },
+      {
+        "id": "7fc3",
+        "uname": "ABDUS SAMAD",
+        "email": "zaigham135@gmail.com",
+        "phone": "+918100629408",
+        "address": "12 Zakaria Street, Kolkata ,pin-700073",
+        "dob": "1997-02-20",
+        "password": ""
+      }
+    ]
+  }
